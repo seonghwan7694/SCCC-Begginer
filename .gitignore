@@ -1,4 +1,4 @@
 *.pptx
-*.cpp
-*.vscode
+.vscode
 *.out
+*.cpp
